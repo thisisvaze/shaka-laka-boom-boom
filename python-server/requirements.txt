@@ -1,0 +1,7 @@
+fastapi
+opencv-python
+numpy
+requests
+gradio
+pillow
+uvicorn
